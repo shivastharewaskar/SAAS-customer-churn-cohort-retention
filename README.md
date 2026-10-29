@@ -10,6 +10,11 @@
 
 ---
 
+## 📊 Interactive Power BI Dashboard UI
+![SaaS Churn Intelligence Dashboard Preview](assets/dashboard_preview.png)
+
+---
+
 ## Executive Overview
 This project provides an end-to-end analytical framework to diagnose, quantify, and mitigate customer attrition for subscription businesses. By analyzing **6,000 customer accounts** and **$765K in Monthly Recurring Revenue (MRR)**, this study tracks monthly cohort survival decay, identifies behavioral churn triggers, and delivers actionable business strategies to safeguard enterprise revenue.
 
